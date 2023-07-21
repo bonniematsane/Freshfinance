@@ -1,5 +1,5 @@
 .Boxes{
- gap: 5%;
+ gap: 2%;
     display: flex;
     flex-direction: column;
     
@@ -21,7 +21,7 @@ img{
     border-radius: 48px;
     width: 45px;
     height: 45px;
-    background-color: #009AEE;
+    
     margin-top: 26px;
     margin-left: 10px;
 }
@@ -33,7 +33,7 @@ p{
 .box1, .box2{
     display: flex;
     flex-direction: row;
-    gap: 5%;
+    gap: 2%;
 }
 .box2{
     margin-top: 15px;
