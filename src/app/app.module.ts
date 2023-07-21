@@ -12,6 +12,7 @@ import { BusinessAdviceComponent } from './business-advice/business-advice.compo
 import { ParagraphComponent } from './paragraph/paragraph.component';
 import { TextboxesComponent } from './textboxes/textboxes.component';
 import { LastButtonsComponent } from './last-buttons/last-buttons.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { LastButtonsComponent } from './last-buttons/last-buttons.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,11 +1,10 @@
-.Boxes{
- gap: 2%;
+.Boxes {
+    gap: 2%;
     display: flex;
     flex-direction: column;
-    
-   
 }
-.box{
+
+.box {
     border: 2px solid;
     height: 80px;
     width: 300px;
@@ -13,28 +12,30 @@
     flex-direction: row;
     background-color: #FAFAFA;
     border-color: #eceaea;
-
-   
-    
 }
-img{
+
+img {
     border-radius: 48px;
     width: 45px;
     height: 45px;
-    
+
     margin-top: 20px;
     margin-left: 10px;
 }
-p{
+
+p {
     color: grey;
-    margin-top: 28px;
+    margin-top: 20px;
     margin-left: 10px;
 }
-.box1, .box2{
+
+.box1,
+.box2 {
     display: flex;
     flex-direction: row;
     gap: 2%;
 }
-.box2{
+
+.box2 {
     margin-top: 15px;
 }
