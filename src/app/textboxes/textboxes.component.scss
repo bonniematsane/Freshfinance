@@ -7,12 +7,12 @@
 }
 .box{
     border: 2px solid;
-    height: 90px;
+    height: 80px;
     width: 300px;
     display: flex;
     flex-direction: row;
-    background-color: #F5F5F5;
-    border-color: #DEDEDE;
+    background-color: #FAFAFA;
+    border-color: #eceaea;
 
    
     
@@ -22,12 +22,12 @@ img{
     width: 45px;
     height: 45px;
     
-    margin-top: 26px;
+    margin-top: 20px;
     margin-left: 10px;
 }
 p{
     color: grey;
-    margin-top: 32px;
+    margin-top: 28px;
     margin-left: 10px;
 }
 .box1, .box2{

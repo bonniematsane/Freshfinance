@@ -1,6 +1,6 @@
 .container{
     height: 100vh;
-    margin-left: 90px;
+    margin-left: 190px;
     display: flex;
     flex-direction: column;
     font-family: sans-serif;
@@ -9,9 +9,9 @@
 
 
 .tool{
-    background-image:linear-gradient(to right, white,transparent),url('../../src/assets/OIP.jpg');
+    background-image:linear-gradient(to right, white 0px,transparent),url('../../src/assets/R.jpg');
     background-repeat: no-repeat;
-    background-position: 100%;
+    background-position: center;
    background-size:100%;
     width: 100%;
     height: 70%;
