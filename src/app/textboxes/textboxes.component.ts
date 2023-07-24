@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class TextboxesComponent {
 
+  boxesContent = [
+    { text: 'Put The Clients First' },
+    { text: 'Put The Clients First' },
+    { text: 'Put The Clients First' },
+    { text: 'Put The Clients First' },
+    { text: 'Put The Clients First' },
+    { text: 'Put The Clients First' },
+  ];
+
 }
